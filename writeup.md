@@ -258,25 +258,13 @@ This, my main project repo.
 [refExercise2RepoUda]: https://github.com/udacity/RoboND-CNN-Lab
 [refExercise3RepoUda]: https://github.com/udacity/RoboND-Segmentation-Lab
 
-[trainingsetdownload]: https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip
-[projectinstructions]: https://classroom.udacity.com/nanodegrees/nd013/parts/edf28735-efc1-4b99-8fbb-ba9c432239c8/modules/6b6c37bc-13a5-47c7-88ed-eb1fce9789a0/lessons/7ee8d0d4-561e-4101-8615-66e0ab8ea8c8/concepts/8cb6867c-f809-49b3-9bc1-afb409a112a7
-[GTSRB]: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
-
 [//]: # (Image References)
 [//]: # (html resizeable image tag <img src='./Assets/examples/placeholder.png' width="480" alt="Combined Image" />)
 
-[refLedeImage]: ./Assets/finalTest/01.jpg
-[refImage_1]: ./Assets/finalTest/01.jpg
+[refLedeImage]:
+
+[refImage_1]: 
+
 [refImage_ModelTextTable]: ./docs/writeupImages/model_summary.txt
 [refImage_ModelGraph]: ./docs/writeupImages/model_plot.png
 [refImage_ModelGraphSimple]: ./docs/writeupImages/model_plotsimple.png
-
-
-[trainhist]:  ./Assets/writeupImages/trainhist.png     
-[trainhistaug]:  ./Assets/writeupImages/trainhistaug.png     
-[extraimages]: ./Assets/writeupImages/extraimages.png     
-[trainsample]:  ./Assets/writeupImages/trainsample.png     
-[02zoomed]:  ./Assets/writeupImages/02zoomed.png
-[augmentssmall]:  ./Assets/writeupImages/SampleAugmentsSmall.png
-[augmentsbig]:  ./Assets/writeupImages/SampleAugmentsBig.png
-[extrapredictions]:  ./Assets/writeupImages/predictions.png
