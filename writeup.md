@@ -3,7 +3,7 @@
 **Notes to Reviewer:**<br/>
 The final h5 training file is [./data/weights/model_weights](./data/weights/model_weights)<br/>
 The notebook can be viewed as
- [model_trainingNB.html](./data/code/model_trainingNB.html),  or  [model_training.ipynb](./data/code/model_training.ipynb),
+ [model_trainingNB.html](./code/model_trainingNB.html),  or  [model_training.ipynb](./code/model_training.ipynb),
 ---
 
 ## **Project Overview**
