@@ -1,3 +1,26 @@
+# -*- mode: gitignore; -*-
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+
+nohup.out
+junk*.*
+
+junk/
+*.pyc
+.ipynb_checkpoints/
+
+/url/cache
+/.emacs.desktop
+/auto-save-list
+/network-security.data
+/.session
+/session.*
+/custom.el
+*.elc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
